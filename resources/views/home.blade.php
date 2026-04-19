@@ -10,7 +10,7 @@
 </head>
 <body class="bg-gray-100">
     <div class="px-4">
-        <h1>Welcome to Blog System</h1>
+        <h1>Welcome to Blog System !</h1>
     </div>
 </body>
 </html>
